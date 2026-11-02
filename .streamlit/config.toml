@@ -1,0 +1,33 @@
+[client]
+toolbarMode = "minimal"
+showErrorDetails = false
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#6366F1"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+baseRadius = "0.75rem"
+buttonRadius = "0.75rem"
+showWidgetBorder = true
+
+[theme.light]
+primaryColor = "#4F46E5"
+backgroundColor = "#F7F8FC"
+secondaryBackgroundColor = "#EEF0F8"
+textColor = "#1E2235"
+borderColor = "#DCDFEC"
+
+[theme.light.sidebar]
+backgroundColor = "#FFFFFF"
+
+[theme.dark]
+primaryColor = "#818CF8"
+backgroundColor = "#0F1117"
+secondaryBackgroundColor = "#1A1D29"
+textColor = "#E6E8F2"
+borderColor = "#2A2E3E"
+
+[theme.dark.sidebar]
+backgroundColor = "#141722"

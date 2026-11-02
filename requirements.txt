@@ -1,0 +1,5 @@
+groq==1.6.0
+python-dotenv==1.2.3
+requests==2.34.2
+streamlit==1.65.0
+tzdata==2026.3
