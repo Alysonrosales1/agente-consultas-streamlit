@@ -4,3 +4,9 @@ env/
 __pycache__/
 *.pyc
 .streamlit/secrets.toml
+
+# Archivos locales que no van al repositorio
+202602_DA_Practica1_Agente_IA.pdf
+Proyecto01
+advanced_tools.py
+agente1.py
